@@ -25,7 +25,7 @@
     "should": "1.1.0"
   },
   "keywords": ["uptime", "monitoring", "api", "check"],
-  "repository": "https://github.com/fzaninotto/uptime",
+  "repository": "https://github.com/rogerxaic/uptime",
   "license": "MIT",
   "engines": {
     "node": "0.10.x",

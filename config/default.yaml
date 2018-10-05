@@ -1,7 +1,10 @@
-url: 'http://localhost:8082'
+url: 'VIRTUAL_HOST'
+
+server:
+  port: 8082
 
 mongodb:
-  server:   localhost
+  server:   'DATABASE'
   database: uptime
   user:     root 
   password:
